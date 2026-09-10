@@ -1,4 +1,4 @@
-# Paper-Cnidarian-Venoms-in-the-Omics-Era-Toxin-Discovery-and-Bioactive-Potential
+# Paper: Cnidarian Venoms in the Omics Era: Toxin Discovery and Bioactive Potential
 R script used to generate Figure 12 of the review “Cnidarian Venoms in the Omics Era: Toxin Discovery and Bioactive Potential”.
 **Barroso, R.A., & Antunes, A. (2026). Cnidarian Venoms in the Omics Era: Toxin Discovery and Bioactive Potential. Marine Drugs, 24(9), 306.**
 
