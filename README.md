@@ -11,6 +11,9 @@ The script generates Figure 12, showing:
 - (a) The number of cnidarian species in which each toxin family was identified by proteomic and transcriptomic studies.
 - (b) The distribution of toxin families across major cnidarian groups.
 
+<img width="7902" height="5583" alt="Figure_AB_combined_FINALFINALFINAL" src="https://github.com/user-attachments/assets/3ab75d7e-b472-43d6-a997-2d7deb913ccd" />
+
+
 ## Requirements
 
 - R
